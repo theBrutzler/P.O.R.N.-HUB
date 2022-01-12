@@ -1,0 +1,27 @@
+Designator,Value,Footprint,LCSC,Qty
+">  C1-C9, C11-C15, C18-C20, C22-C25, C34-C36",4µ7,Capacitor_SMD:C_0805_2012Metric,C429940,24
+    C26,C,Capacitor_SMD:C_0603_1608Metric,dnp,1
+    C27,47n,Capacitor_SMD:C_0603_1608Metric, C696860,1
+">  C16, C28",220µ,Capacitor_SMD:CP_Elec_8x10.5,C97814,2
+">  C10, C17, C21, C29-C33",100n,Capacitor_SMD:C_0603_1608Metric,C282519,8
+>  D1-D5,LED,Capacitor_SMD:C_0603_1608Metric,C2760783,5
+    J2,Conn_01x02_Female,Connector_AMASS:AMASS_XT60-F_1x02_P7.20mm_Vertical,C98733,1
+">  J1, J4",USB_A,TheBrutzlers_Lib:USB-A-POWER,C381138,2
+    J5,Conn_01x01_Female,Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Vertical,dnp,1
+">  J6, J7",Conn_01x04_Female,Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical,dnp,2
+">  L1, L2",2µ2,Inductor_SMD:L_Wuerth_WE-PD2-Typ-L,C405172,2
+>  P1-P7,USB_C_Plug_USB2.0,TheBrutzlers_Lib:USB-C-POWER,C2894893 ,7
+>  Q1-Q5,BSS214NW,Package_TO_SOT_SMD:SOT-323_SC-70,C916396,5
+">  R13-R15, R28, R29",DNP,Resistor_SMD:R_0603_1608Metric,dnp,5
+">  R1-R12, R16-R18, R21, R32-R39, R41, R47, R48",5K1,Resistor_SMD:R_0603_1608Metric,C2907044,27
+    R20,110K,Resistor_SMD:R_0603_1608Metric,C2906984,1
+">  R19, R22-R27, R46, R49",500K,Resistor_SMD:R_0603_1608Metric,C412382,9
+    R30,R,Resistor_SMD:R_0603_1608Metric,dnp,1
+    R40,45K3,Resistor_SMD:R_0603_1608Metric,C23058,1
+">  R31, R42-R45",900K,Resistor_SMD:R_0603_1608Metric,C2907075,5
+>  SW1-SW6,SW_Push,Button_Switch_SMD:SW_SPST_TL3305A,C174049,6
+">  U1-U3, U12, U13",CC6900,Package_SO:SOIC-8_3.9x4.9mm_P1.27mm,C350864,5
+">  U4-U6, U9, U10",LPW5209AB5F,Package_TO_SOT_SMD:SOT-23-5,C387727,5
+    U7,MT3420C-mt3420c,Package_TO_SOT_SMD:SOT-23-6,C181741,1
+    U8,ESP32-WROOM-32D,RF_Module:ESP32-WROOM-32,C473012,1
+    U11,TPS61088,Package_DFN_QFN:Texas_VQFN-RHL-20,C87357,1
